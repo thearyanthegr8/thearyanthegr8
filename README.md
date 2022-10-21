@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C, C++**
 
-- 👨‍💻 All of my projects are available at [aryantomar.netlify.com](aryantomar.netlify.com)
+- 👨‍💻 All of my projects are available at [aryantomar.netlify.com](https://aryantomar.netlify.com)
 
 - 📫 How to reach me **mearyantomar@gmail.com**
 
