@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Aryan 👋</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🔭 I’m currently working on **my Portfolio**
+- 🔭 I’m currently working on **various free lancing projects.**
 
-- 🌱 I’m currently learning **C, C++**
+- 🌱 I’m currently learning **backend**
 
-- 👨‍💻 All of my projects are available at [aryantomar.netlify.com](https://aryantomar.netlify.com)
+- 👨‍💻 All of my projects are soon available at [aryantomar.netlify.com](https://aryantomar.netlify.com)
 
-- 📫 How to reach me **mearyantomar@gmail.com**
+- 📫 Reach out to me at **mearyantomar@gmail.com**
 
 - ⚡ Fun fact **I am also a music producer, and I love to play the keyboard in my freetime**
 
