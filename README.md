@@ -1,4 +1,4 @@
-<img align="center" alt="banner" src="https://drive.google.com/file/d/1G3ms1zpKCyjweflYuuPLIQWdask1mUR2/view?usp=sharing" width="100%">
+<img align="center" alt="banner" src="https://drive.google.com/uc?export=view&id=1G3ms1zpKCyjweflYuuPLIQWdask1mUR2" width="100%">
 <h1 align="center">Hi, I'm Aryan 👋</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
