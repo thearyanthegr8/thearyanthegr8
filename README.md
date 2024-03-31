@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are soon available at [aryantomar.com](https://aryantomar.vercel.com)
+- 👨‍💻 All of my projects are soon available at [aryantomar.com](https://aryantomar.vercel.app)
 
 - 📫 Reach out to me at [aryantomar03@gmail.com](mailto:aryantomar03@gmail.com)
 
