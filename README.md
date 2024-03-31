@@ -1,3 +1,4 @@
+<img align="center" alt="banner" src="https://drive.google.com/file/d/1G3ms1zpKCyjweflYuuPLIQWdask1mUR2/view?usp=sharing" width="100%">
 <h1 align="center">Hi, I'm Aryan 👋</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
@@ -5,7 +6,7 @@
 
 - 🌱 I’m currently learning **backend**
 
-- 👨‍💻 All of my projects are soon available at [aryantomar.netlify.com](https://aryantomar.netlify.com)
+- 👨‍💻 All of my projects are soon available at [aryantomar.com](https://aryantomar.com)
 
 - 📫 Reach out to me at **mearyantomar@gmail.com**
 
@@ -15,7 +16,6 @@
 <p align="left">
 <a href="https://twitter.com/mearyantomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mearyantomar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aryan tomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan tomar" height="30" width="40" /></a>
-<a href="https://instagram.com/mearyantomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mearyantomar" height="30" width="40" /></a>
 <a href="https://discord.gg/thearyanthegr8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thearyanthegr8" height="30" width="40" /></a>
 </p>
 
